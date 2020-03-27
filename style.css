@@ -149,6 +149,12 @@ body.index ol{
     margin: 0 auto;
 }
 
+@media screen and (min-width: 576px){
+    #homeImg{
+        height: auto;
+        width: 95vh;
+    }
+}
 
 
 
