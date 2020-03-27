@@ -257,6 +257,10 @@ BAYS.HTML END
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
+body.boats main a span.carousel-control-next-icon, body.boats main a span.carousel-control-prev-icon{
+    color: white;
+    font-size: 60px;
+}
 
 /* Position the "next button" to the right */
 .next {
